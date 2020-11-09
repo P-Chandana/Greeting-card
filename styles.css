@@ -1,0 +1,179 @@
+.top{
+    background-color:#d9adad;
+    height: 500px;
+        
+
+}
+body{
+    margin: 0;
+    text-align: center;
+}
+
+img{
+    padding-top: 90px;
+    position: absolute;
+    left:130px;
+    width:16%;
+    
+    
+
+}
+.intro{
+    font-family: 'Cedarville Cursive', cursive;
+    text-emphasis: right;
+    position: absolute;
+    left:500px;
+    padding-top: 120px;
+    display: inline-block;
+    font-size: 28px;
+}
+.second-para{
+    font-family: 'Cedarville Cursive', cursive;
+    display: inline-block;
+    font-size: 28px;
+    padding-top: 120px;
+    position: absolute;
+    left:200px;
+}
+.hr-second{
+    display: inline-block;
+    position: absolute;
+    left:300px;
+    padding-top: 300px;
+
+}
+p{
+    padding-top: 310px;
+    position: absolute;
+    left:130px;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 30px;
+    display: inline-block;
+    
+    
+}
+.fisrt-box{
+
+    background-color: #ad9d9d;
+    height: 200px;
+    width: 100px;
+    display: inline-block;
+    position : absolute;
+    left: 100px;
+    margin-top: 50px;
+    padding: 100px 100px 0 100px;
+    padding-bottom: 60px;
+}
+.block-one{
+    background-color: #68b0ab;
+    height: 500px;
+    width: 50px;
+    display: inline-block;
+    position : absolute;
+}
+.copy{
+    background-color: #68b0ab;
+    height: 500px;
+    width: 50px;
+    display: inline-block;
+    position : absolute;
+    right: 10px;
+
+}
+.copy2{
+    background-color: #68b0ab;
+    height: 500px;
+    width: 50px;
+    display: inline-block;
+    position : absolute;
+    right: 70px;
+}
+.copy3{
+    background-color: #68b0ab;
+    height: 500px;
+    width: 50px;
+    display: inline-block;
+    position : absolute;
+    right: 130px;
+}
+.copy4{
+    background-color: #68b0ab;
+    height: 500px;
+    width: 50px;
+    display: inline-block;
+    position : absolute;
+    right: 190px;
+}
+.second-image{
+    padding-top: 100px;
+    position: absolute;
+    left:818px;
+    width:30%;
+}
+hr{
+    /* border-style: solid; */
+    border-top: solid;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    width: 60%;
+    display: inline-block;
+
+}
+.second-box{
+    height: 150px;
+    width: 80px;
+    background-color: #838383;
+    display: inline-block;
+    position :absolute;
+    left: 110px;
+    margin-top: 70px;
+    padding-right: 200px;
+    padding-bottom: 100px;
+
+}
+
+
+.middle{
+    background-color: #8fc0a9;
+    height: 500px;
+     
+}
+
+.bottom{
+    background-color: #d8d3cd;
+    height: 400px;
+    text-align: center;
+    
+}
+
+.star{
+    width: 3%;
+    display: inline-block;
+    position :absolute;
+    left: 1000px;
+}
+.last{
+    position: absolute;
+    height: 100px;
+    width: 100%;
+    top:1300px;
+    background-color: #797a7e;
+}
+
+.last-para{
+    font-family: 'Cedarville Cursive', cursive;
+    display: inline-block;
+    font-size: 28px;
+    position :absolute;
+    left: 500px;
+    padding-top: 30px;
+}
+#phone{
+    width: 5%;
+    display: inline-block;
+    position :absolute;
+    padding-top: 10px;
+    padding-left: 500px;
+    
+}
